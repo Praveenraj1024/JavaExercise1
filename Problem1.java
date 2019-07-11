@@ -1,5 +1,6 @@
 package com.stackroute.practiceexercise1;
 
+
 import java.util.Scanner;
 import java.lang.*;
 
